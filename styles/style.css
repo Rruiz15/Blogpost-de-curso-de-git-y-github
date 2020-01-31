@@ -46,5 +46,21 @@ body{
 
 .container__post{
     padding:1em;
+<<<<<<< HEAD
     
+=======
+}
+
+.footer{
+    background-color: rgba(73, 73, 72, 0.692);
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    text-align:left;
+    padding-bottom: 6px;
+    padding-left: 10px;
+
+>>>>>>> footer
 }
